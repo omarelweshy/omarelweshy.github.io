@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'm tired
-
+News  1

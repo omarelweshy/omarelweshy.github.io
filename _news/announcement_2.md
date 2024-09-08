@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fucked up by corona virus
+title: New 2
 date: 2021-01-01 12:00:00+0300
 inline: false
 related_posts: false

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Fucked by corona virus
+News 3
