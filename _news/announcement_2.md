@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Fucked up by corona virus
+date: 2021-01-01 12:00:00+0300
 inline: false
 related_posts: false
 ---
