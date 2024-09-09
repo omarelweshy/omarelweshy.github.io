@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://omarelweshy.github.io//sitemap.xml
+Sitemap: https://weshy.dev/sitemap.xml
