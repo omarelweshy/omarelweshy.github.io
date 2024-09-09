@@ -8,7 +8,6 @@ categories: devops
 thumbnail: assets/img/nginx-docker.png
 ---
 
-
 ## Introduction
 
 It's crucial to ensure that your web applications are always available and can handle high traffic. That's where a load balancer comes in - it distributes incoming traffic evenly across multiple servers, maximizing performance and minimizing downtime.

@@ -22,4 +22,3 @@ I am currently focused on mastering distributed systems and microservices using 
 Feel free to reach out for collaboration or inquiries at [omarelweshy@gmail.com](mailto:omarelweshy@gmail.com). You can explore my work on GitHub at [GitHub](https://github.com/omarelweshy) and connect with me on [LinkedIn](https://www.linkedin.com/in/omarelweshy), and check out my humble contributions on [Stack Overflow](https://stackoverflow.com/users/9917795/omar-elweshy).
 
 P.S. If you like memes, you can follow me on [X](https://x.com/omarelweshy) and share your favorites with me—let’s have some fun amidst all the coding!
-
