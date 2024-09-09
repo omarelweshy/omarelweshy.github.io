@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /repositories/
-title: repositories
+permalink: /repositories
+title: Repositories
 description: Below is a concise summary of my GitHub account, highlighting key projects and contributions.
 nav: true
 nav_order: 4

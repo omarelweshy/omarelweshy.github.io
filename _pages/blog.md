@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /blog2
+permalink: /blog
 title: Blog
 nav: true
 nav_order: 1
@@ -148,7 +148,7 @@ pagination:
         {% endif %}
       </p>
       <p class="post-tags">
-        <a href="{{ year | prepend: '/blog2/' | prepend: site.baseurl}}">
+        <a href="{{ year | prepend: '/blog/' | prepend: site.baseurl}}">
           <i class="fa-solid fa-calendar fa-sm"></i> {{ year }} </a>
 
           {% if tags != "" %}

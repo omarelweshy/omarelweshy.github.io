@@ -1,15 +1,15 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Somehow, Software Engineer
 
 profile:
-  align: right
-  image: prof_pic.png
-  image_circular: true # crops the image to make it circular
-  more_info: >
-    <p></p>
+    align: right
+    image: prof_pic.png
+    image_circular: true # crops the image to make it circular
+    more_info: >
+        <p></p>
 
 news: false # includes a list of news items
 social: true # includes social icons at the bottom of the page
