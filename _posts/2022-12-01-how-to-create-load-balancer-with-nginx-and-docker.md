@@ -18,9 +18,9 @@ But setting up a load balancer can be a daunting task, especially for those who 
 
 You need to install the following:
 
-- Nodejs
-- Docker
-- Nignx
+-   Nodejs
+-   Docker
+-   Nignx
 
 ## File Structure
 
@@ -45,7 +45,7 @@ index.js
 const app = require("express")();
 
 app.get("/", (req, res) => {
-  res.send(`Hello from ${process.env.appId} docker`);
+    res.send(`Hello from ${process.env.appId} docker`);
 });
 
 app.listen(3000, () => console.log("app at http://localhost:3000"));
@@ -55,17 +55,17 @@ package.json
 
 ```json
 {
-  "name": "app",
-  "main": "index.js",
-  "scripts": {
-    "app": "node index.js"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "express": "^4.18.2"
-  }
+    "name": "app",
+    "main": "index.js",
+    "scripts": {
+        "app": "node index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.18.2"
+    }
 }
 ```
 
