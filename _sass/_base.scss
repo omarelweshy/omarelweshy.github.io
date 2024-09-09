@@ -383,9 +383,10 @@ ul.task-list input[type="checkbox"] {
   text-align: center;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 2rem;
 
     a {
+        padding-left: 11px;
       i::before {
         color: var(--global-text-color);
         transition-property: all 0.2s ease-in-out;

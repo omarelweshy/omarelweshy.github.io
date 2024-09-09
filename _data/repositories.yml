@@ -1,14 +1,12 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - omarelweshy
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - omarelweshy/EcomMaster
+  - omarelweshy/dropbox-clone
+  - omarelweshy/.dotfiles
+  - omarelweshy/Deploy-Flask-App-to-Kubernetes-Using-EKS 
+  - omarelweshy/leetcode-solutions
+  - omarelweshy/flutter-springboot-google-docs-clone
